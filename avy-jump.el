@@ -3,7 +3,7 @@
 ;; Copyright (C) 2015  Free Software Foundation, Inc.
 
 ;; Author: Oleh Krehel
-;; URL: https://github.com/abo-abo/avy-jump
+;; URL: https://github.com/abo-abo/avy
 ;; Version: 0.1.0
 ;; Keywords: point, location
 
